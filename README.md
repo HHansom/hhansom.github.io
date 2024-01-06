@@ -20,7 +20,7 @@ Greetings, I am Dr. Harvey Hansom, a dedicated mathematician and researcher base
 
 ## Professional Experience
 
-After completing my doctoral studies, I briefly entered the professional realm before heeding a calling rooted in my Christian faith. Currently, I serve as an Assistant Researcher at **Liberty University**, contributing to the intersection of mathematics and engineering.
+After completing my doctoral studies, I briefly entered the professional realm before heeding a calling rooted in my Christian faith. Currently, I serve as an Assistant Researcher at **LU**, contributing to the intersection of mathematics and engineering.
 
 ## Research Focus
 
