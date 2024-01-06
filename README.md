@@ -30,15 +30,15 @@ My scholarly pursuits revolve around advanced mathematical methodologies and the
 
 1. *Title: "A Novel Numerical Approach for Solving Nonlinear Parabolic Partial Differential Equations"*
    - Published in *Journal of Computational Methods in Engineering*
-   - [Link to Article 1]
+   - [Link to Article 1](10.3742/jcme.1992.529720)
 
 2. *Title: "Efficient Finite Element Method for the Solution of Time-Dependent Hyperbolic PDEs with Applications in Fluid Dynamics"*
    - Published in *International Journal of Mathematical Applications*
-   - [Link to Article 2]
+   - [Link to Article 2](10.8337/ijma.1993.337537)
 
 3. *Title: "Adaptive Mesh Refinement Strategies for Solving Elliptic Partial Differential Equations in Multi-dimensional Domains"*
    - Published in *Journal of Applied Mathematical Modeling*
-   - [Link to Article 3]
+   - [Link to Article 3](10.4643/jamm.1995.252546)
 
 ## Contact Information
 
