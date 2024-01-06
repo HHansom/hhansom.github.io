@@ -24,7 +24,7 @@ After completing my doctoral studies, I briefly entered the professional realm b
 
 ## Research Focus
 
-My scholarly pursuits revolve around advanced mathematical methodologies and their practical applications in engineering. Here are some of my notable contributions to the academic community:
+My scholarly pursuits revolve around advanced mathematical methodologies and their practical applications in engineering. Here are some of my contributions to the academic community:
 
 ### Published Articles
 
@@ -48,4 +48,4 @@ For academic discussions or collaboration inquiries, please reach out:
 - **LinkedIn:** [Harvey Hansom](https://www.linkedin.com/in/harvey_hansom_lu)
 - **Twitter:** [@HarveyHansom](https://twitter.com/HarveyHansom_lu)
 
-Thank you for exploring the serious side of mathematics and engineering with me!
+Thank you for exploring the side of mathematics and engineering with me!
