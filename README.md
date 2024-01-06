@@ -44,7 +44,7 @@ My scholarly pursuits revolve around advanced mathematical methodologies and the
 
 For academic discussions or collaboration inquiries, please reach out:
 
-- **Email:** [harvey.hansom@email.com](mailto:hhansom@liberty.edu)
+- **Email:** [hhansom@liberty.edu](mailto:hhansom@liberty.edu)
 - **LinkedIn:** [Harvey Hansom](https://www.linkedin.com/in/harvey_hansom_lu)
 - **Twitter:** [@HarveyHansom](https://twitter.com/HarveyHansom_lu)
 
